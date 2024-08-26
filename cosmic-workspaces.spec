@@ -5,6 +5,7 @@ Name:           cosmic-workspaces
 Version:        1.0.0
 Release:        0.alpha1.0
 Summary:        COSMIC workspaces
+Group:          Desktop/COSMIC
 License:        GPL-3.0-only
 URL:            https://github.com/pop-os/cosmic-workspaces-epoch
 Source0:        https://github.com/pop-os/cosmic-workspaces-epoch/archive/epoch-%{version}-alpha.1/%{name}-epoch-epoch-%{version}-alpha.1.tar.gz
