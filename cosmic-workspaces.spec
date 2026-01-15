@@ -2,8 +2,8 @@
 
 %define         appname com.system76.CosmicWorkspaces
 Name:           cosmic-workspaces
-Version:        1.0.0
-%define beta beta.7
+Version:        1.0.2
+#define beta beta.7
 Release:        %{?beta:0.%{beta}.}1
 Summary:        COSMIC workspaces
 Group:          Desktop/COSMIC
